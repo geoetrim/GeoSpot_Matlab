@@ -1,0 +1,6 @@
+#generated except source/configuration files
+*.txt
+*.xml
+
+#folders
+/Sonuclar
