@@ -1,6 +1,9 @@
 #generated except source/configuration files
 *.txt
 *.xml
+*.jpg
+*.doc
+*.docx
 
 #folders
-/Sonuclar
+GeoSpot_2/Sonuclar
